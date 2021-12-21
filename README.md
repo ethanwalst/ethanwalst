@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ethanwalst69
+- 👋 Hi, I’m @ethanwalst
 - 👀 I’m interested in blockchain
 - 🌱 I’m currently learning Solidity & Rust
 - 💞️ I’m looking to collaborate on projects for blockchain
